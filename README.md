@@ -57,7 +57,7 @@ CC Gateway is a reverse proxy that sits between Claude Code and the Anthropic AP
 One command. Requires Node.js 22+ and an existing Claude Code login on this machine.
 
 ```bash
-git clone https://github.com/motiful/cc-gateway.git
+git clone https://github.com/ixiefugui/cc-gateway.git
 cd cc-gateway
 npm install
 bash scripts/quick-setup.sh
@@ -310,11 +310,11 @@ This project builds on:
 ## Star History
 
 <div align="center">
-  <a href="https://star-history.com/#motiful/cc-gateway&Date">
+  <a href="https://star-history.com/#ixiefugui/cc-gateway&Date">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=motiful/cc-gateway&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=motiful/cc-gateway&type=Date" />
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=motiful/cc-gateway&type=Date" width="600" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ixiefugui/cc-gateway&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ixiefugui/cc-gateway&type=Date" />
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ixiefugui/cc-gateway&type=Date" width="600" />
     </picture>
   </a>
 </div>
@@ -358,11 +358,11 @@ This project is for educational and research purposes only.
 </div>
 
 <!-- Badge references -->
-[license-shield]: https://img.shields.io/github/license/motiful/cc-gateway
-[license-url]: https://github.com/motiful/cc-gateway/blob/main/LICENSE
+[license-shield]: https://img.shields.io/github/license/ixiefugui/cc-gateway
+[license-url]: https://github.com/ixiefugui/cc-gateway/blob/main/LICENSE
 [version-shield]: https://img.shields.io/badge/version-0.2.0--alpha-blue
-[version-url]: https://github.com/motiful/cc-gateway/releases
+[version-url]: https://github.com/ixiefugui/cc-gateway/releases
 [tests-shield]: https://img.shields.io/badge/tests-16%20passed-brightgreen
-[tests-url]: https://github.com/motiful/cc-gateway/blob/main/tests/rewriter.test.ts
+[tests-url]: https://github.com/ixiefugui/cc-gateway/blob/main/tests/rewriter.test.ts
 [twitter-shield]: https://img.shields.io/badge/follow-%40whiletrue0x-1DA1F2?logo=x&logoColor=white
 [twitter-url]: https://x.com/whiletrue0x
